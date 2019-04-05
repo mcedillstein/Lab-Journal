@@ -1,0 +1,12 @@
+Joseph Breneman      SID: 1775900
+
+Monday (4.1.19):
+* Downloaded MacVim to use as a text editor.
+* Need to get used to using GitHub and the command line. I feel that the weekly journals will be a good opportunity to finding new ways of doing the same thing in respect to github and command line. 
+* Consider the writing credit, how much will it possibly distract from the purpose of the course, can these credits be earned elsewhere where the content of the course is not as relevant to my degree path.
+* Research paper and Lab reports will be the bulk of the course
+
+Wednesday (4.3.19):
+* The "Whiteshades' Group: Writing a Paper" reading was very helpful. Start thinking about research paper and start working on outline asap. The Astro 300 Jupyter notebooks on LATEX and writing a scientific paper will most likely be relevant.
+* The research paper will be on observations in the visible spectrum only.
+* When using MacVim: after hitting CTRL+C, typing :qa!, quits the text without saving. Typing :wq quits and saves text* Remember that there is homework due Monday.
