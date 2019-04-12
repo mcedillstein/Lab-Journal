@@ -1,0 +1,25 @@
+Friday (4.5.19):
+* To submit to repository on the Astro480 github page, fork the repository, move file into the repository on my account page, make a pull request and merge with the master branch.
+* Homework "Navigating the Night Sky" is due Monday.
+* Over the weekend: complete the Apache Point Observatory assignment
+* Target airmass is 1.5 or greater
+* Try to figure out a way to use the Jskycalc website/application
+* Work on coming up with an Observing/Data Project Proposal, the official proposal is due on 4.19.19.
+* Revisit the LATEX assignment from ASTR 300 so that when it comes time to write the research paper there are not any complications with the technicalities of format and all that hubris.
+* Astronomical twilight is when the Sun is 18˚ below the horizon
+* When using AstroPlan in the jupyter notebook: astroplan.readthedocs.io is a great reference website for commands and instructions.
+
+Monday (4.8.19):
+* Look more into GoCalc, kind of like an online Jupyter notebook.
+* Started working on the assignment "Navigating the night sky" with Mercedes Thompson. We have until Friday (or  Monday) until the assignment is due. 
+* Practice using the command line to complete tasks. Practice, practice, practice.
+* Dig up the old command line operator key from Astro 300. Don't forget that "rm" is the remove command.
+* We have decided to observe quasars for our Night Sky assignment.
+* We got the DuPont 2.5m telescope, from 5/15/2019-5/30/2019, for our viewing window on the assignment.
+
+Wednesday (4.10.19):
+* Do not use 'For Loops'
+* Having trouble trying to figure out how to constrain the data set of quasars to those that are best for viewing within our time period. 
+* The moon_illumination command in astropy.observer is a good constraint to narrow down the list of potential quasars for viewing.
+* Figure out why the moon_phase command line wouldn't work in Jupyter notebook. 
+* The .at_site name for the DuPont telescope is "lco"
