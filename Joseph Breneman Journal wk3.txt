@@ -1,0 +1,23 @@
+Monday (4.15.19):
+* Professor Tuttle spent time talking about the Proposal for the observation project.
+* I am considering analyzing hubble frontier fields and possibly doing something with gravitational lensing, and hubble constant.
+* Keep working on doing commeands from the terminal. Especially creating these journals and accessing directories.
+* Got JSkyCalc to work, practice using it in kahoots with astropy.
+
+Wednesday (4.17.19):
+* Started the Fits assignment today, and downloaded SAOImageDS9.
+* Use the fits data imaging notebook from Astro 300 to complete some of the assignemnt, especially the section inquiring about the Header deets. 
+* Look more into the HST Frontier Fields and gravitational lensing.
+* Can we use QFitsView to complete some of the Fits imaging assignment?
+* Figure out if there are any observations that can be made with ARCSAT that could contribute to the HST frontier Fields.
+
+Friday (4.19.19):
+* Okay, so I read a little into the HST Frontier Fields and that's a hard no. 
+* Decided to analyze variable stars in the M3 Globular cluster, and determine if the variable periods have changed for any stars.
+* Found a variable star (V154) in M3 that has been previously observed to have an increasing variable period. This star has been observed for over a century.
+* Getting a little worried that my observation window might not be long enough to determine the stars variable period.
+* Used my notebook from the nightsky observing assignment to determine the quality of observations I will get for M3, and it looks like my airmass will be awesome for the entire observing window.
+* Definitely focus on making sure my observations are as good as they can be, dates, times, weather.
+* Start working on paper format and collecting data from previous papers that can be used to compare with my observational data.
+* Revisit the LATEX Notebook from Astro 300.
+
