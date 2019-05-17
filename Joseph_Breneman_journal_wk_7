@@ -1,0 +1,22 @@
+Joseph Breneman Journal week 7
+
+Monday (5/13/19):
+*We spent time today talking about photometry, and further reductions of the data.
+*I underestimated the overscan reducing procedure. Ccdproc has some rabbit hole aspects to it that I discovered, unfortunately.
+*Trying to concentrate is sometimes hard 100% of the time.
+*I need to find some betgter info on creating light curves for my research project that can be compared to the main paper that I am referring to with respect to the variable period of my observed star.
+*It was a long weekend getting the CCD paper done but I have to say I learned a great deal about CCD's
+
+Wednesday (5/15/19):
+*Today I really got quite a bit done on the Data reduction lab. I downloaded all of my images, and got them to load correctly using the ccdproc.
+*Downloaded the photutils package and performed the test to make sure it was working properly.
+*Professor Tuttle gave us a fits image to use for the photometry part of the lab.
+*This week is turning out to be a productive week thus far.
+*Owls, definitely owls.
+
+Friday (5/17/19):
+*Today we talked about the research paper, Professor Tuttle had some good insights to share, specifically about making good references.
+*Physics undergrad symposium is today, don't forget to go to mary gates.
+*Got to see the planet-arium today for the first time. It was nice to look at stars and not worry about how I'm going to try and reduce them to data.
+*Have a nice weekend.
+
