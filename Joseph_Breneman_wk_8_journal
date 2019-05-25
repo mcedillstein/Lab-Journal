@@ -1,0 +1,23 @@
+Joseph Breneman, Journal Week 8
+
+Monday (5/20/2019):
+*Today we turned in our first rough draft for our research project. It was a long weekend, but a productive one, and I feel like I am at a good place so far with my project.
+*I am becoming more comfortable with the data reduction process. The current lab about data reduction is a little arduous, but also extremely helpful. To be honest, reducing data is not something I would expect ot be a simple thing, considering all the possible parameters.
+*I still need to work on creating light curves for my variable star
+*Proof reading other students papers was enjoyable, it was interesting to read what others are doing for their projects and the prcesses they are working through.
+*Try to find more data on the S2, 
+
+Wednesday (5/22/2019):
+*Today we recieved our papers back after they were proof read by Professor Tuttle and a sense of relief washed over me when Dr. Tuttle stated that the project seems to be heading in the right direction.
+*I should definitely put one of my images of M3 taken by ARCSAT in the paper.
+*Make some plots of flux for S2 based on the reduced data.
+*We worked on the data reduction project during class time today and I am somewhat stuck on the PSF fitting part of the photometry section.
+*Try and clean up the jupyter notebook for the datat reduction project before you turn it in since it looks like a damn mess.
+
+Friday (5/24/2019):
+*I finished the data reduction lab last night, and I feel that I have a better understanding of the PSF fitting now. For large images that have multiple sources that vary significantly in size and saturation, the PSF fitting seems to be a better way to analyze those sources.
+*I was not able to attend class today, I have a bad case of biting-off-more-than-I-can-chew-itis for this quarter. This Memorial Day weekend will be a good chance to get caught up. 
+*The next lab goes into using SDSS data, I briefly looked it over and it seems fairly straightforward. 
+*I noticed someone using a different command for displaying their images. Tried using "np.log10('image')" and I liked the results. Try using it in application to your project images.
+
+
