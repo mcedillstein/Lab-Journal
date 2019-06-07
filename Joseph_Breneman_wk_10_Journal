@@ -1,0 +1,16 @@
+Joseph Breneman Week 10 Journal
+Monday (6/3/2019):
+*Right now I'm doing good with the final project coming along. Have to finish the conlusion, abstract and some of the analysis.
+*I am going to play around with fitting the the light curves for my project using the SciPy curve_fit technique since the Fourier fit process has crached and burned.
+*Got a new lab today on machine learning, looks fun, not feeling it right now though.
+*I completed the machine learning reading homework over the weekend.
+
+Wednesday (6/5/2019):
+*I dinked around with the SciPy curve_fit feature with my data and got this amazingly bad plot, I plan on putting it at the tailend of the project paper and only referencing it to show some kind of period for S2.
+*Make sure to talk about why the Fourier fit technique wouldn't work with the data obtained during my observation period.
+*The end is in sight with my paper now. I think?
+
+Friday (6/7/2019):
+*I spent class today putting the finishing touches on my final paper and adding some plots. I added the airmass plot for M3, because i figured it would be relative for the context of observing.
+*This was an excellent class, and my only regret is that I wish I hadn't overloaded myself with other obligations during this quarter and would of had more time to spend on this class.
+*Thanks for an excellent quarter Professor Tuttle! 
